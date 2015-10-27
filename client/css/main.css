@@ -1,0 +1,36 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.center{
+  text-align: center;
+}
+
+
+.pic-box{
+  height: 100px;
+}
+
+
+.animal-box{
+  margin-bottom: 150px;
+}
+
+.edit-btn{
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.centered{
+  display: table;
+  margin: auto;
+}
+
+.cancel{
+  margin-top: 10px;
+}
